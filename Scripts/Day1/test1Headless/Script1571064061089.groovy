@@ -24,5 +24,3 @@ WebUI.setEncryptedText(findTestObject('Object Repository/TestHeadless1/Page_Oran
 
 WebUI.click(findTestObject('Object Repository/TestHeadless1/Page_OrangeHRM/input_Password_Submit'))
 
-WebUI.closeBrowser()
-
